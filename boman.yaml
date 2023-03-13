@@ -2,7 +2,7 @@ Auth:
   project_token: 9b85229b-6f2d-407e-a1b6-744ae8c0b9d5
   customer_token: df0d4185-7142-4ce1-999e-25eb8a76e80a
 SAST:
-  language: node-snyk-sast
+  language: nodejs
 SCA:
-  language: node-snyk-sca
+  language: nodejs
 Secret_Scan: true
